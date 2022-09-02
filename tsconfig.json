@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es2020",
+    "target": "ES5",
     "moduleResolution": "node",
     "allowUnreachableCode": false,
     "exactOptionalPropertyTypes": true,
@@ -8,8 +8,7 @@
     "noImplicitReturns": true,
     "noUncheckedIndexedAccess": true,
     "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "strict": true
+    "noUnusedParameters": true
   },
   "include": [
     "./src",
